@@ -1,4 +1,0 @@
-coursera
-========
-
-Repo for Coursera
